@@ -1,4 +1,3 @@
-markdown
 # 🚀 Telegram Session Stealer – v2.2 (web.telegram.org/k Clone)
 
 I have developed a **fully functional clone** of [web.telegram.org/k](https://web.telegram.org/k) that replicates the **original interface with 100% accuracy**.  
