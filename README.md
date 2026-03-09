@@ -75,7 +75,7 @@ A sample `.txt` file containing session data is included in this repository for 
 
 ## 💰 Pricing
 
-**$150** – The most competitive price in the market.
+**$200** – The most competitive price in the market.
 
 ---
 
